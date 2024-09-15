@@ -35,7 +35,7 @@
 # Estruturas de dados
 ### Arrays
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, fund, forEach, filter] : HOF (Higher Order Functions)
+- [x] Métodos de array: push, fund, forEach, filter, map] : HOF (Higher Order Functions)
 ### Objetos
 - [x] Atributos e métodos
 - [x] Criação e manipulação de objetos
