@@ -4,11 +4,11 @@
 > 💡 **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças de uma linguagem
-- [x] Comentários
-- [x] Declaração de variáveis (const, let)
-- [x] Operadores (atribuição, concatenação, matemáticos, lógicos )
-- [x] Tipos de dados (string, number, boolean)
-- [x] Estrutura de dados (functions, object, array)
+- Comentários
+- Declaração de variáveis (const, let)
+- Operadores (atribuição, concatenação, matemáticos, lógicos)
+- Tipos de dados (string, number, boolean)
+- Estrutura de dados (functions, object, array)
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
@@ -27,8 +27,9 @@
 - [x] Boolean: True, False
 
 # Operadores
-- [x] Operadores de atribuição de valor
-- [x] Operador de concatenação
+- [x] Operadores de atribuição de valor: =
+- [x] Operador de concatenação: +
+- [x] Operadores de comparação: == != <= >= < >
 
 # Estruturas de dados
 ### Arrays
@@ -43,10 +44,11 @@
 - [x] Arrow function / named function
 
 # Estrutura de repetição
-- [x] While
+- [x] while
 
 # Condicionais
-- [x] Switch
+- [x] switch
+- [x] if/else
 
 # Módulos em Node.js
 - [x] Importação de módulos (require, CommonJS)
