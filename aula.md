@@ -5,10 +5,10 @@
 
 ## Peças de uma linguagem
 - [x] Comentários
-- Declaração de variáveis (const, let)
-- Operadores (atribuição, concatenação, matemáticos, lógicos )
-- Tipos de dados (string, number, boolean)
-- Estrutura de dados (functions, object, array)
+- [x] Declaração de variáveis (const, let)
+- [x] Operadores (atribuição, concatenação, matemáticos, lógicos )
+- [x] Tipos de dados (string, number, boolean)
+- [x] Estrutura de dados (functions, object, array)
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
@@ -17,12 +17,30 @@
 - Processar os dados (manipular, alterar ...)
 - Apresentar os dados
 
+# Escopo e variáveis
+- [x] Variáveis globais e locais
+- [x] Constantes
+
 # Tipos de dados
-- Strings (textos) "" '' ``
-- Number: 2 1.4
-- Function
+- [x] Strings (textos) "" '' ``
+- [x] Number: 2 1.4
+- [x] Boolean: True, False
 
 # Operadores
-- Operadores de atribuição de valor
+- [x] Operadores de atribuição de valor
+- [x] Operador de concatenação
+
+# Estruturas de dados
+### Arrays
+- [x] Uma lista que contém qualquer tipo de dado
+### Objetos
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+### Function
+- [x] Criar, passar argumento
+- [x] Executar
+- [x] Arrow function / named function
+
 
 
