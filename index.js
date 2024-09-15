@@ -141,6 +141,10 @@ let metas = [
     }
 ]
 
+// console.log(metas[0].value) é igual ao console.log(metas.value)
+console.log(meta.value)
+
+// peguar o item 1
 console.log(metas[1].value)
 
 
